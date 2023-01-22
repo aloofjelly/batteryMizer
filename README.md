@@ -7,7 +7,7 @@ this program was writtem in python and graphics using turtle
 
 
 **detailed** :
-our main aim is to maximize battery health of an ev so as to extend its maxinmum capacity so that in the log run an individual will not have ot have them replaced sooner and eventually making it more cost effective over a goven period of time. 
+our main aim is to maximize battery health of an ev so as to extend its maxinmum capacity so that in the log run an individual will not have to have them replaced sooner and eventually making it more cost effective over a given period of time. 
 batteries have a specific range of percentages between which their performance have minimal effect over the health (reasons might include thermal degradation etc)
 this safe range of battery percentage to optimize health is 50%-80%
 we have taken a model car - the tata nexon which gives 312km/full charge 
