@@ -1,13 +1,12 @@
-**# batteryMizer
-team cyber ciphers' entry for taqneeq hackathon- cyber cypher
-**
-**overview**
+**batteryMizer
+team cyber ciphers' entry for taqneeq hackathon- cyber cypher**
+
+**overview** :
 to maximize battery health of an ev so as to extend its maxinmum capacity so that in the log run an individual will not have ot have them replaced sooner and eventually making it more cost effective over a goven period of time. 
 this program was writtem in python and graphics using turtle 
 
 
-**detailed:
-**
+**detailed** :
 our main aim is to maximize battery health of an ev so as to extend its maxinmum capacity so that in the log run an individual will not have ot have them replaced sooner and eventually making it more cost effective over a goven period of time. 
 batteries have a specific range of percentages between which their performance have minimal effect over the health (reasons might include thermal degradation etc)
 this safe range of battery percentage to optimize health is 50%-80%
