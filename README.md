@@ -1,5 +1,5 @@
-**batteryMizer
-team cyber ciphers' entry for taqneeq hackathon- cyber cypher**
+**batteryMizer**
+**team cyber ciphers' entry for taqneeq hackathon- cyber cypher**
 
 **overview** :
 to maximize battery health of an ev so as to extend its maxinmum capacity so that in the log run an individual will not have ot have them replaced sooner and eventually making it more cost effective over a goven period of time. 
